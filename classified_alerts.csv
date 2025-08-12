@@ -1,0 +1,28 @@
+src_ip,dest_ip,src_port,dest_port,proto_raw,proto,severity,sig_id,sig,prediction
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,54.39.128.230,35040,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,104.17.254.239,37628,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,104.17.254.239,37628,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,143.20.69.35,46464,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,47884,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,47884,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,104.17.253.239,36444,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,104.17.253.239,40624,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,54.39.128.230,35902,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,104.17.253.239,40624,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,143.20.69.35,53888,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,50348,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,50348,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,143.20.69.35,56674,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,60046,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
+10.0.2.15,54.39.128.230,60046,80,TCP,1,3,2025627,ET INFO [eSentire] Possible Kali Linux Updates,0
+10.0.2.15,143.20.69.35,46064,80,TCP,1,3,2013504,ET INFO GNU/Linux APT User-Agent Outbound likely related to package management,0
